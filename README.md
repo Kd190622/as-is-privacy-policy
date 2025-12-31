@@ -158,10 +158,10 @@ You are advised to review this Privacy Policy periodically for any changes.
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
 
-**Email**: [YOUR_EMAIL@example.com]  
-**Website**: [YOUR_WEBSITE.com]  
+**Email**: support@asis.com  
+**Website**: asis-app.com
 **App Name**: AS IS  
-**Developer**: [YOUR_NAME/COMPANY]
+**Developer**: AS IS COMPANY
 
 
 ---
